@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bmiami988
-- 👀 I’m interested in Full Stark Engineering 
-- 🌱 I’m currently learning Front end development(javascript and bootstrap5)
+- 👀 I’m interested in Backend Engineering 
+- 🌱 I’m currently learning express.js
 - 💞️ I’m looking to collaborate on absolutely anything
 - 📫 How to reach me bmiami922@gmail.com TWITTER- @bricker100 
 
